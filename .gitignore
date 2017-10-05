@@ -1,0 +1,4 @@
+*.DS_Store
+*data/
+*Py_3*/
+*.ipynb_*/
