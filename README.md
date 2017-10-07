@@ -15,6 +15,12 @@ Every TP are runnable under jupyter notebook doing
 jupyter notebook
 ````
 
+### What does it contain ?
+
+1. TP0 : Manipulate python <br>
+2. TP1 : Manipulate pandas
+
+
 
 ### ABOUT ME
 
