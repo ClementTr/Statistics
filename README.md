@@ -17,8 +17,7 @@ jupyter notebook
 
 ### What does it contain ?
 
-1. TP0 : Manipulate python <br>
-2. TP1 : Manipulate pandas
+1. TP1 : Manipulate python and pandas
 
 
 
